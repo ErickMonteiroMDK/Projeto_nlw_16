@@ -14,8 +14,9 @@
 --   FOREIGN KEY (trip_id) REFERENCES trips(id)
 --);
 --CREATE TABLE IF NOT EXISTS "links" (
---    id TEXT PRIMARY KEY,
+--   id TEXT PRIMARY KEY,
 --    trip_id TEXT,
 --    email TEXT NOT NULL,
+--    title TEXT NOT NULL,
 --    FOREIGN KEY (trip_id) REFERENCES trips(id)
 --);
