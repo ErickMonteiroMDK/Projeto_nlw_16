@@ -21,6 +21,6 @@ class LinkFinder:
 
         except Exception as exception:
             return {
-                "body": {"error": str(exception)},
-                "status_code": 201,
+                "body": {"error": "Bad Request", "message":   str(exception)},
+                "status_code": 400,
             }
