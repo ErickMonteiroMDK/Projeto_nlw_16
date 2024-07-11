@@ -1,7 +1,9 @@
 import uuid
 from typing import Dict
 
+
 class ParticipantCreator:
+
     def __init__(self, participants_repository, emails_repository) -> None:
         self.__participants_repository = participants_repository
         self.__emails_repository = emails_repository

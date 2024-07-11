@@ -21,11 +21,11 @@ class LinkCreator:
 
             return {
                 "body": {"linkId": link_id},
-                "status_code": 200,
+                "status_code": 201, 
             }
 
         except Exception as exception:
             return {
                 "body": {"error": str(exception)},
-                "status_code": 201
+                "status_code": 400,  
             }
