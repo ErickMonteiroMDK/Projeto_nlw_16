@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel Planner - NLW 16</title>
+    <title>Planejador de Viagens - NLW 16</title>
 </head>
 <body>
 
-<h1>Travel Planner</h1>
+<h1>Planejador de Viagens</h1>
 
 <p>Este é o repositório do <strong>Planejador de Viagens</strong>, s desenvolvido em Python como parte do evento <strong>NLW 16</strong> da <a href="https://rocketseat.com.br">Rocketseat</a>. O projeto foi criado para facilitar a organização de viagens, permitindo a criação e gestão de atividades, participantes e outras informações essenciais de forma eficiente.</p>
 
