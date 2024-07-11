@@ -8,7 +8,7 @@
 
 <h1>Planejador de Viagens</h1>
 
-<p>Este é o repositório do <strong>Planejador de Viagens</strong>, s desenvolvido em Python como parte do evento <strong>NLW 16</strong> da <a href="https://rocketseat.com.br">Rocketseat</a>. O projeto foi criado para facilitar a organização de viagens, permitindo a criação e gestão de atividades, participantes e outras informações essenciais de forma eficiente.</p>
+<p>Este é o repositório do <strong>Planejador de Viagens</strong>, desenvolvido em Python como parte do evento <strong>NLW 16</strong> da <a href="https://rocketseat.com.br">Rocketseat</a>. O projeto foi criado para facilitar a organização de viagens, permitindo a criação e gestão de atividades, participantes e outras informações essenciais de forma eficiente.</p>
 
 <h2>Visão Geral</h2>
 <p>O <strong>Planejador de Viagens</strong> foi desenvolvido durante a trilha de Python do evento <strong>NLW 16</strong>. A aplicação permite aos usuários:</p>
